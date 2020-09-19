@@ -1,0 +1,18 @@
+{
+    "name": "is-simulator",
+    "version": "0.0.1",
+    "description": "Determines if the code is currently running in the simulator",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "simulator.ts",
+        "simulator.cpp"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
